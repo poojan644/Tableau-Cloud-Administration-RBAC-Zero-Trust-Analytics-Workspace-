@@ -53,7 +53,6 @@ High-level components:
 │   ├── user-management.png
 │   └── site-settings.png
 
----
 
 Security Focus
 Zero Trust model (identity-first security)
@@ -61,7 +60,6 @@ MFA enforced authentication
 RBAC using Tableau site roles
 Admin-governed site configuration
 
----
 -Skills Demonstrated
 -Tableau Cloud Administration
 -Identity & Access Management (IAM)
@@ -69,5 +67,6 @@ Admin-governed site configuration
 -Zero Trust security concepts
 -SaaS platform governance
 -Technical documentation
+
 
 
